@@ -17,7 +17,6 @@ To use the code in this repository, follow these steps:
 1. Clone the repository:
 ```
 git clone https://github.com/COGS118A/Group024-SP23.git
-
 ```
 2. Install the required dependencies:
 

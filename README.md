@@ -14,11 +14,14 @@ The baseline methodology for classifying mitochondrial morphology types involves
 ### Installation
 To use the code in this repository, follow these steps:
 
-1. Clone the repository:
+1. Navigate to the folder in which you wish to install the repository
+```
+cd /path
+```
+2. Clone the repository
 ```
 git clone https://github.com/COGS118A/Group024-SP23.git
 ```
-2. Install the required dependencies:
 
 ### Usage
 To reproduce the experiments and run the classification models, open the Jupyter Notebook file FinalProject_Group024-SP23.ipynb in Jupyter Notebook or JupyterLab. The notebook contains detailed instructions and code for training and evaluating the classification models.

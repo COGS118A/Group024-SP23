@@ -24,6 +24,10 @@ conda create --name <env_name> --file requirements.txt
 ```
 conda activate <env_name>
 ```
+5. Open Jupyter Notebook
+```
+jupyter notebook
+```
 
 ### Usage
 To reproduce the experiments and run the classification models, open the Jupyter Notebook file FinalProject_Group024-SP23.ipynb in Jupyter Notebook or JupyterLab. The notebook contains detailed instructions and code for training and evaluating the classification models.

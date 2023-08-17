@@ -10,11 +10,19 @@ To use the code in this repository, follow these steps:
 
 1. Navigate to the folder in which you wish to install the repository
 ```
-cd /path
+cd "/my/path"
 ```
 2. Clone the repository
 ```
 git clone https://github.com/COGS118A/Group024-SP23.git
+```
+3. Create conda env using 
+```
+conda create --name <env_name> --file requirements.txt
+```
+4. Activate conda env
+```
+conda activate <env_name>
 ```
 
 ### Usage
